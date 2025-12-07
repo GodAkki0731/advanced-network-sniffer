@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Project-Active-brightgreen)
+![Tests](https://img.shields.io/badge/Tests-Passing-success)
+
 # 🚀 Advanced Network Packet Sniffer & Analyzer
 
 A professional-grade Python-based packet sniffer designed to capture, inspect, and analyze real-time network traffic.  
