@@ -142,7 +142,7 @@ python -m unittest discover
 
 # 👨‍💻 Author
 
-**Akaash Kumar (Master Creox)**  
+**Akash Kumar (Master Creox)**  
 Cybersecurity Engineer • Ethical Hacker • Network Analyst  
 Building AI-powered cybersecurity tools and intelligent systems.
 
