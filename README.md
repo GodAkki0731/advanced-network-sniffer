@@ -49,8 +49,10 @@ advanced-network-sniffer/
 
 ```
 
-git clone [https://github.com/GodAkki0731/advanced-network-sniffer.git](https://github.com/GodAkki0731/advanced-network-sniffer.git)
+
+git clone [https://github.com/Mastercreox/advanced-network-sniffer.git](https://github.com/Mastercreox/advanced-network-sniffer.git) 
 cd advanced-network-sniffer
+
 
 ```
 
